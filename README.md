@@ -3,4 +3,4 @@ This calculator uses AI to calculate BMI and suggest whether to increase or decr
 It also provides food suggestions.
 
 ## 🚀 Live Website
-[Click here to view the Web Application](bmiiewrt.my.canva.site)
+[Click here to view the Web Application](https://bmiiewrt.my.canva.site)
